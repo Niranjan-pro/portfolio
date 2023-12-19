@@ -1,0 +1,61 @@
+[
+    {
+        "id": "project1",
+        "title": "MovieHunt Application",
+        "quote": "hunt movie and series",
+        "image": "/Images/Project-one.png",
+        "modelimage": "/Images/project-one-model-images.png",
+        "shortdescription": "explore the trends movie/series",
+        "description": "Movie Application - Explore, Discover, and Enjoy Your Favorite Movies and TV Series. Know about trending movies/series with full description, rating, review, and recommendations for other similar movies/series.",
+        "githubLink": "https://github.com/niranjandahal/MovieApp_Flutter",
+        "videoLink": "jDezwrUpyuI",
+        "screenshots": [
+            "/Images/project-one-s1.jpg",
+            "/Images/project-one-s2.jpg",
+            "/Images/project-one-s3.jpg",
+            "/Images/project-one-s4.jpg",
+            "/Images/project-one-s5.jpg",
+            "/Images/project-one-s6.jpg",
+            "/Images/project-one-s7.jpg",
+            "/Images/project-one-s8.jpg",
+            "/Images/project-one-s9.jpg",
+            "/Images/project-one-s10.jpg"
+        ],
+        "features": [
+            "Trending Movies and TV Series",
+            "Search Bar",
+            "Personalized Recommendations",
+            "Detailed Information",
+            "YouTube Trailers",
+            "Inbuilt Playback",
+            "Favorites",
+            "User Profiles and Avatars",
+            "Blogs Section"
+        ]
+    },
+    {
+        "id": "project2",
+        "title": "VR Application",
+        "quote": "Explore Places Virtually",
+        "image": "/Images/project-two.png",
+        "modelimage": "/Images/project-two-model-images.png",
+        "shortdescription": "Explore - Discover and enjoy the beautiful places of Nepal from home",
+        "description": "This is a simple project in which you can explore places virtually. Initially, there are only some places in Nepal that you can explore. However, with time, it will be updated to show many places in VR with high resolution and will constantly be updated.",
+        "githubLink": "https://github.com/niranjandahal/VR_Application_Flutter",
+        "videoLink": "stOWEF2kBnE",
+        "screenshots": [
+            "/Images/project-two-s1.jpg",
+            "/Images/project-two-s2.jpg",
+            "/Images/project-two-s3.jpg"
+        ],
+        "features": [
+            "360° View of Places in Nepal",
+            "User-Contributed Places",
+            "Curated and Validated Content",
+            "Interactive and Informative Experience",
+            "Seamless Navigation",
+            "Spectacular Visuals and Audio",
+            "Constant Updates and New Discoveries"
+        ]
+    }
+]
